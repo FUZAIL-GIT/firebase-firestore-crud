@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007943293644",
+    "project_id": "firsbase-firestore",
+    "storage_bucket": "firsbase-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007943293644:android:b663a8df9fe254742f4069",
+        "android_client_info": {
+          "package_name": "com.example.firebase_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007943293644-10p6756n51vvpg3s7lo0bs9joli8is4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVKg20z2dcKsEK28OAfcCFyxcqpeahWrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007943293644-10p6756n51vvpg3s7lo0bs9joli8is4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
